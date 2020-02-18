@@ -9,12 +9,6 @@ GateOne is ACL (Access Control List) as service for protecting resources.
 * Go SDK +1.12
 * Docker (optional)
 
-
-## Setup
-
-After cloning repository, please install all dependencies required using `go mod` command. See manual build on installation section for more detail.
-
-
 ## Installation
 
 * Makefile
