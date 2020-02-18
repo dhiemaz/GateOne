@@ -29,7 +29,7 @@ GateOne is ACL (Access Control List) as service for protecting resources.
 
 * Manual build
 
-  You can still build this project manually if you doesn't have or use `make` command or `docker` installed in your system. To manually build follow below commands
+  You can still build this project manually if you doesn't have or use `make` command or `docker` installed in your system. For manually build, follow below commands
 
   ```bash
   $ gomod tidy
