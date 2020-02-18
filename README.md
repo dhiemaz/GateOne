@@ -1,5 +1,5 @@
 # GateOne
-------------
+
 ![technology Go](https://img.shields.io/badge/technology-go-blue.svg) 
 
 GateOne is ACL (Access Control List) as service for protecting resources.
